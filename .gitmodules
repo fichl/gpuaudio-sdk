@@ -21,7 +21,8 @@
 	url = https://github.com/gpuaudio/GainLib
 [submodule "NeuralAmpModeler/nam_plugin"]
 	path = NeuralAmpModeler/nam_plugin
-	url = https://github.com/gpuaudio/nam_plugin
+	url = https://github.com/fichl/nam_plugin
+	branch = playground_v2
 [submodule "processor_cmake"]
 	path = processor_cmake
 	url = https://github.com/gpuaudio/processor_cmake
